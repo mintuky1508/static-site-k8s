@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: mintuky1508/statics-site:latest
+        image: mintuky1508/static-portfolio
         ports:
         - containerPort: 80
